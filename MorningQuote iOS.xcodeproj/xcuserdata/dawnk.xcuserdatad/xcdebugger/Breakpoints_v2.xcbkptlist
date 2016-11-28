@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MorningQuote iOS/LocalQuotes.swift"
+            timestampString = "501963418.706639"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "LocalQuotes"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MorningQuote_iOS.LocalQuotes.deinit"
+                  moduleName = "MorningQuote iOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dawnk/Desktop/MorningQuote%20iOS/MorningQuote%20iOS/LocalQuotes.swift"
+                  timestampString = "501970757.835479"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MorningQuote_iOS.LocalQuotes.init () -&gt; MorningQuote_iOS.LocalQuotes"
+                  moduleName = "MorningQuote iOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dawnk/Desktop/MorningQuote%20iOS/MorningQuote%20iOS/LocalQuotes.swift"
+                  timestampString = "501970757.838256"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MorningQuote_iOS.LocalQuotes.__allocating_init () -&gt; MorningQuote_iOS.LocalQuotes"
+                  moduleName = "MorningQuote iOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dawnk/Desktop/MorningQuote%20iOS/MorningQuote%20iOS/LocalQuotes.swift"
+                  timestampString = "501970757.840939"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
